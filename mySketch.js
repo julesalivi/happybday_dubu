@@ -18,9 +18,9 @@ function preload() {
 	inhand= loadImage('jejuBada.PNG');
 	jelly= loadImage('povDubu.PNG');
 	opentree= loadImage('sweetDubi.PNG');
-	shroom= loadImage('timBurton.PNG');
+	shroom= loadImage('timburton.PNG');
 	yshroom= loadImage('winterJeju.PNG');
-	leaf= loadImage('leaf.PNG');
+	leaf= loadImage('cooldubi.PNG');
 		}
 		
 function setup() {
